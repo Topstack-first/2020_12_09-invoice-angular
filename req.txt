@@ -1,0 +1,3 @@
+Thank you for changing on your excel it's easier like that
+use directly the totalExcludingVAT and totalIncludingVAT from InvoiceTest
+Add lines in data.sql to be sure that you generate the invoices correctly, that you do not do the work twice for the previous months and that you overwrite if the invoice already exists ...
